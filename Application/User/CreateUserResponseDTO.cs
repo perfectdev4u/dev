@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Application.Admin
+namespace Application.User
 {
-    public class Jobs
+    internal class CreateUserResponseDTO
     {
     }
 }

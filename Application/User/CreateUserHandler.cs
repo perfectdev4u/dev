@@ -4,14 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Domain.Enums
+namespace Application.User
 {
-    [Flags]
-    public enum Usertype : short
+    public class CreateUserHandler
     {
-
-        SuperAdmin = 1,
-        Admin = 2,
-        User = 3,
+        //Bussiness logic will be here
     }
 }
